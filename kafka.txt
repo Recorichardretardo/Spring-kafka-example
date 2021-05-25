@@ -1,0 +1,3 @@
+https://docs.spring.io/spring-kafka/reference/html/#introduction
+https://github.com/tech-recipes/spring-kafka-producer
+https://github.com/tech-recipes/spring-kafka-consumer
